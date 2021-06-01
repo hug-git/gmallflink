@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flinkcdc/flinkcdc.iml" filepath="$PROJECT_DIR$/flinkcdc/flinkcdc.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmallflink.iml" filepath="$PROJECT_DIR$/gmallflink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmalllogger/gmalllogger.iml" filepath="$PROJECT_DIR$/gmalllogger/gmalllogger.iml" />
     </modules>
   </component>
 </project>
