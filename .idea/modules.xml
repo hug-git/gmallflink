@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/flinkcdc/flinkcdc.iml" filepath="$PROJECT_DIR$/flinkcdc/flinkcdc.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmallflink.iml" filepath="$PROJECT_DIR$/gmallflink.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmalllogger/gmalllogger.iml" filepath="$PROJECT_DIR$/gmalllogger/gmalllogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realtime/realtime.iml" filepath="$PROJECT_DIR$/realtime/realtime.iml" />
     </modules>
   </component>
 </project>
